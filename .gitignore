@@ -1,0 +1,9 @@
+/13. Real-Time Production Chatbot using Gemini API/.env
+/13. Real-Time Production Chatbot using Gemini API/config/__pycache__/
+/13. Real-Time Production Chatbot using Gemini API/memory/__pycache__/
+/13. Real-Time Production Chatbot using Gemini API/prompts/__pycache__/
+/13. Real-Time Production Chatbot using Gemini API/services/__pycache__/
+/13. Real-Time Production Chatbot using Gemini API/utils/__pycache__/
+/13. Real-Time Production Chatbot using Gemini API/logs
+*.log
+*.pyc

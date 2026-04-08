@@ -1,0 +1,14 @@
+# Enterprise Knowledge Base RAG System - Requirements
+# Python >= 3.9
+
+# AWS SDK
+boto3>=1.34.0
+
+# Web Framework
+streamlit>=1.32.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Utilities
+requests>=2.31.0

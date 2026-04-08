@@ -1,0 +1,88 @@
+EMPLOYEE HANDBOOK
+-----------------
+Welcome:
+Welcome to the company. We are committed to creating a productive work environment.
+
+Work Culture:
+We encourage teamwork, innovation, and continuous learning.
+
+Performance Review:
+Employee performance is reviewed twice a year.
+
+Training:
+Employees are encouraged to participate in training programs.
+
+Growth Opportunities:
+Employees will have opportunities for career advancement based on performance.
+
+
+CODE OF CONDUCT
+---------------
+Professional Behavior:
+Employees must behave respectfully with colleagues and clients.
+
+Harassment Policy:
+Any form of harassment is strictly prohibited.
+
+Conflict of Interest:
+Employees must disclose any conflicts of interest.
+
+Company Property:
+Employees must handle company assets responsibly.
+
+Disciplinary Actions:
+Violation of policies may result in warnings, suspension, or termination.
+
+
+HR POLICY
+---------
+Working Hours:
+Employees are expected to work 9 hours per day, from 9:00 AM to 6:00 PM, including a 1-hour break.
+
+Attendance:
+Employees must mark attendance daily using the company system. Late arrival beyond 15 minutes will be recorded.
+
+Dress Code:
+Employees are required to wear formal attire from Monday to Friday. Casual wear is allowed on Saturdays.
+
+Remote Work:
+Employees are allowed to work from home up to 2 days per week with manager approval.
+
+Code of Behavior:
+All employees must maintain professional conduct and respect workplace ethics at all times.
+
+
+IT SECURITY POLICY
+------------------
+Password Policy:
+Employees must use strong passwords and change them every 60 days.
+
+Data Protection:
+Confidential company data must not be shared outside the organization.
+
+Device Usage:
+Only authorized devices should be used to access company systems.
+
+Email Usage:
+Employees must not open suspicious email attachments or links.
+
+Security Violations:
+Any security breach must be reported immediately to the IT department.
+
+
+LEAVE POLICY
+------------
+Annual Leave:
+Employees are entitled to 20 paid leaves per year.
+
+Sick Leave:
+Employees can take up to 10 sick leaves annually. A medical certificate may be required for more than 2 consecutive days.
+
+Casual Leave:
+Employees can take 5 casual leaves per year for personal reasons.
+
+Leave Approval:
+All leaves must be approved by the reporting manager in advance.
+
+Unpaid Leave:
+If paid leaves are exhausted, employees may apply for unpaid leave subject to approval.
